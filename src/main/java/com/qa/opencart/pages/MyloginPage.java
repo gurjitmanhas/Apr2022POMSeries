@@ -4,7 +4,11 @@ public class MyloginPage {
 	
 	
 	public void login() {
-		System.out.println("naveen - login");
+		System.out.println("riya - login");
+		
+		String name = "Riya";
+		
+		
 	}
 	
 	
