@@ -7,6 +7,7 @@ public class NewStash {
 		
 		
 		int p = 10;
+		String n = "naveen";
 		
 
 	}
