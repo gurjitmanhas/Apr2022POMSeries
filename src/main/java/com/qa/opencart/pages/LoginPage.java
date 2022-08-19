@@ -69,6 +69,7 @@ public class LoginPage {
 
 	@Step("navigating to register page")
 	public RegisterPage goToRegisterPage() {
+		System.out.println("navigating to register page");
 		eleUtil.doClick(registerLink);
 		return new RegisterPage(driver);
 	}
